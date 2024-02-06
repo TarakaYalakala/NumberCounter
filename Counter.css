@@ -1,0 +1,72 @@
+body {
+    background-color: pink;
+}
+.button {
+    height:200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter {
+    height: 250px;
+    font-size: 5rem;
+    font-family: sans-serif;
+    color: blue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn1 {
+    margin-right: 25px;
+}
+#btn2 {
+    margin-right: 25px;
+}
+.inc {
+    height:35px;
+    width:80px;
+    border-radius:5px;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    cursor:pointer;
+    font-size: 700;
+    font-family:sans-serif;
+}
+.inc:hover {
+    background-color:chocolate;
+    color: white;
+
+}
+.reset {
+    height:35px;
+    width:80px;
+    border-radius:5px;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    cursor:pointer;
+    font-size: 700;
+    font-family:sans-serif;
+}
+.reset:hover {
+    background-color:chocolate;
+    color: white;
+
+}
+.dec {
+    height:35px;
+    width:83px;
+    border-radius:5px;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    cursor:pointer;
+    font-size: 700;
+    font-family:sans-serif;
+}
+.dec:hover {
+    background-color:chocolate;
+    color: white;
+
+}
